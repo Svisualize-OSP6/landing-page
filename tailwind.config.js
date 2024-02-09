@@ -11,6 +11,9 @@ export default {
         'background': '#043B48',
         'important': '#EAC6A5',
         'paragraph': '#5395A2'
+			},
+			borderColor: {
+				'custom': '0 4px 6px -1px rgba(2, 16, 20, 0.8)'
 			}
 		}
 	},

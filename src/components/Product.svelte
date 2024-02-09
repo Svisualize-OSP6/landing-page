@@ -1,18 +1,19 @@
 <script>
 	import SectionWrapper from './SectionWrapper.svelte';
-  //add product features in an array
-  let productFeatures = [];
+	//add gifs from asset folder
+	import gif from '../assets/svisualize800px.gif';
 </script>
 
 <SectionWrapper id="product">
-	<div class="flex flex-col gap-6 sm:gap-10 md:gap-15 flex-1 items-center justify-center pb-10 md:pb-14">
-    <div class="flex flex-col gap-2">
-      <img src="./svisualize00.gif" alt="showing functionality of svisualize" class="w-64 h-auto">
-      <!-- <video class="w-full" controls>
-        <source src="../assets/svisualize.mov" type="video/mov">
-         Provide fallback content for browsers that don't support HTML5 video
-        Your browser does not support the video tag.
-      </video> -->
-    </div>
-  </div>
+	<div
+		class="flex flex-col gap-5 sm:gap-9 md:gap-14 flex-1 items-center justify-center pb-10 md:pb-14 w-full"
+	>
+		<div class="flex flex-col items-center w-full">
+			<img
+				src={gif}
+				alt="showing functionality of svisualize"
+				class="max-w-[1000px] w-full h-auto shadow-lg p-6"
+			/>
+		</div>
+	</div>
 </SectionWrapper>
