@@ -1,12 +1,13 @@
 <script>
 	import SectionWrapper from './SectionWrapper.svelte';
 	//add gifs from asset folder
+	import Team from './Team.svelte';
 	import gif from '../assets/svisualize.gif';
 </script>
 
 <SectionWrapper id="product">
 	<div
-		class="flex flex-col gap-5 sm:gap-9 md:gap-14 flex-1 items-center justify-center pb-10 md:pb-14 w-full"
+		class="bg-backgroundBlue flex flex-1 flex-col gap-5 sm:gap-9 md:gap-14 flex-1 items-center justify-center pb-10 md:pb-14 w-full"
 	>
 		<div class="flex flex-col items-center w-full">
 			<img

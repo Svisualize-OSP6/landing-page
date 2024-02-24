@@ -16,7 +16,7 @@
 			class="text-3xl sm:text-4xl md:text-5xl lg:text5-xl max-w-[1200px] mx-auto w-full text-center font-semibold"
 		>
 			<span class="text-important">Svelte</span> components
-			<span class="line-through decoration-highlight">are hard</span>
+			<span class="line-through decoration-important">are hard</span>
 			<span class="text-important">made easy</span>
 		</h3>
 		<p
@@ -26,6 +26,6 @@
 		</p>
 	</div>
 	<div class="arrow-container animate-bounce">
-		<button class="arrow transform rotate-180"></button>
+		<button class="arrow"></button>
 	</div>
 </SectionWrapper>

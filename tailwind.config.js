@@ -7,12 +7,12 @@ export default {
 				logoOrange1: '#ff8552',
 				logoOrange: '#503416',
 				highlight: '#204b4f',
-				background0: '#124e78',
-				background1: '#114B56',
+				backgroundBlue: '#a1c3c9',
+				background1: '#e6d3b5',
 				background2: '#043B48',
-				background: '#a1c3c9',
+				background: '#F7E7DE',
 				important1: '#EAC6A5',
-				important: '#73624A',
+				important: '#915D03',
 				paragraph: '#043B48'
 			},
 			borderColor: {
