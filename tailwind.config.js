@@ -4,16 +4,19 @@ export default {
 	theme: {
 		extend: {
 			colors: {
-				'logoOrange': '#ff8552',
-        'highlight': '#f2bb05',
-        'background0': '#124e78',
-        'background1': '#114B56',
-        'background': '#043B48',
-        'important': '#EAC6A5',
-        'paragraph': '#5395A2'
+				logoOrange1: '#ff8552',
+				logoOrange: '#503416',
+				highlight: '#204b4f',
+				background0: '#124e78',
+				background1: '#114B56',
+				background2: '#043B48',
+				background: '#a1c3c9',
+				important1: '#EAC6A5',
+				important: '#73624A',
+				paragraph: '#043B48'
 			},
 			borderColor: {
-				'custom': '0 4px 6px -1px rgba(2, 16, 20, 0.8)'
+				custom: '0 4px 6px -1px rgba(32, 75, 79, 0.8)'
 			}
 		}
 	},

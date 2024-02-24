@@ -8,6 +8,7 @@ html{
 
 * {
   font-family: 'Monsterrat', sans-serif;
+  color: #3D4243;
 }
 
 .logo{
@@ -82,7 +83,7 @@ button:focus, :focus-visible{
 }
 
 .specialBtn{
-  border-color: white;
+  border-color: #204b4f;
 }
 .specialBtn:hover{
   border-color: 'logoOrange';

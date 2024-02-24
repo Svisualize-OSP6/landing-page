@@ -1,7 +1,7 @@
 <script>
 	import SectionWrapper from './SectionWrapper.svelte';
 	//add gifs from asset folder
-	import gif from '../assets/svisualize800px.gif';
+	import gif from '../assets/svisualize.gif';
 </script>
 
 <SectionWrapper id="product">
@@ -12,7 +12,7 @@
 			<img
 				src={gif}
 				alt="showing functionality of svisualize"
-				class="max-w-[1000px] w-full h-auto shadow-lg p-6"
+				class="max-w-[950px] w-full h-auto shadow-lg p-6"
 			/>
 		</div>
 	</div>

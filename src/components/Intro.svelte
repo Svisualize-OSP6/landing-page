@@ -6,7 +6,7 @@
 <!-- //wrap section with section wrapper -->
 <SectionWrapper id="intro">
 	<Header />
-	<div class="flex flex-col gap-10 flex-1 items-center justify-center pb-10 md:pb-14">
+	<div class="flex flex-col gap-10 flex-1 items-center justify-center pb-10 md:pb-10">
 		<h1
 			class="text-7xl sm:text-8xl md:text-9xl lg:text-10xl max-w-[1200px] mx-auto w-full text-center font-semibold logo"
 		>
@@ -16,7 +16,7 @@
 			class="text-3xl sm:text-4xl md:text-5xl lg:text5-xl max-w-[1200px] mx-auto w-full text-center font-semibold"
 		>
 			<span class="text-important">Svelte</span> components
-			<span class="line-through decoration-logoOrange">are hard</span>
+			<span class="line-through decoration-highlight">are hard</span>
 			<span class="text-important">made easy</span>
 		</h3>
 		<p
