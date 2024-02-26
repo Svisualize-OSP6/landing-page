@@ -3,6 +3,7 @@
 	import Product from "../components/Product.svelte";
 	import Features from "../components/Features.svelte";
 	import Team from "../components/Team.svelte"
+	import Footer from "../components/Footer.svelte"
 	import Header from "../components/Header.svelte";
 </script>
 
@@ -13,4 +14,5 @@
   <Product/>
   <Features/>
   <Team />
+  <Footer />
 <!-- </main> -->

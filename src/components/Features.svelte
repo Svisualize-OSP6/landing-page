@@ -6,7 +6,7 @@
 </script>
 
 <SectionWrapper id="feature">
-	<div class="flex flex-1 flex-col items-center justify-center">
+	<div class="flex flex-1 flex-col items-center justify-center mx-10">
 		<div class="max-w-[1500px] grid grid-cols-3 gap-20">
 			<div class="flex flex-col items-center">
 				<img class="logo w-40 h-40 mb-10" src={VSCODE_logo} alt="" loading="lazy" />
