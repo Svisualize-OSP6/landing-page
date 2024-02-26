@@ -1,11 +1,12 @@
 <script>
+
 </script>
 
-<!-- create heade -->
-<header class="flex flex-col z-20">
-	<div class="max-w[1400px] mx-auto w-full flex items-center justify-between p-4 py-6">
+
+<header class="max-w-[1400px] flex flex-1 flex-col z-20">
+	<div class="fixed mx-auto w-full flex items-center justify-between p-4 py-6">
 		<a href="/">
-			<h1 class="font-semibold"><span class="logo">SVISUALIZE</span></h1>
+			<h1 class="font-semibold"><span class="logo text-2xl"><span class="text-logoOrange">S</span>VISUALIZE</span></h1>
 		</a>
 		<!-- //create a button that only displays on smaller size screen for nav -->
 		<button class="nav md:hidden grid place-items-center"> </button>
@@ -26,12 +27,13 @@
 			>
 			<a
 				href="https://github.com/oslabs-beta/Svisualize"
-				class="duration-200 text-logoOrange hover:text-highlight cursor-pointer hover:font-semibold"
+				class="duration-200 hover:text-highlight cursor-pointer hover:font-semibold"
 				target="_blank">Github</a
 			>
 			<button class="specialBtn">
-				<p class="hover:text-highlight hover:font-semibold">Download</p>
+				<p class="text-logoOrange hover:text-highlight hover:font-semibold">Download</p>
 			</button>
 		</nav>
 	</div>
 </header>
+<div class="mt-100"></div>

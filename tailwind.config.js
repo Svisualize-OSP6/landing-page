@@ -5,7 +5,7 @@ export default {
 		extend: {
 			colors: {
 				logoOrange1: '#ff8552',
-				logoOrange: '#503416',
+				logoOrange: '#B26801',
 				highlight: '#204b4f',
 				backgroundBlue: '#a1c3c9',
 				background1: '#e6d3b5',

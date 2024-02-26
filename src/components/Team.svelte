@@ -3,24 +3,26 @@
 </script>
 
 <SectionWrapper id="team">
-    <h1 class="mx-auto text-5xl">Meet the team behind Svisualize</h1>
+    <h1 class="mx-auto text-4xl font-semibold">Meet the team behind <span class="text-logoOrange">S</span>visualize</h1>
     <div class="container mx-auto px-100">
-    <div class="grid grid-flow-col grid-rows-1 grid-cols-4 gap-10 mx-20 my-20">
+    <div class="grid grid-flow-col grid-rows-1 grid-cols-4 gap-10 mx-20 my-10">
         <div class="flex flex-col items-center">
           <img class="rounded-full mb-5 w-3/4 h-auto" src="https://github.com/lumengli7.png" alt="" loading="lazy">
-          <p class="">Lumeng Li</p>
+          <p class="font-medium">Lumeng Li</p>
+          <div class="flex">
+          </div>
         </div>
         <div class="flex flex-col items-center">
           <img class="rounded-full mb-5 w-3/4 h-auto" src="https://github.com/itsdayson.png" alt="" loading="lazy">
-          <p class="">Jason Huang</p>
+          <p class="font-medium">Jason Huang</p>
         </div>
         <div class="flex flex-col items-center">
           <img class="rounded-full mb-5 w-3/4 h-auto" src="https://github.com/krisfragata.png" alt="" loading="lazy">
-          <p class="">Kris Fragata</p>
+          <p class="font-medium">Kris Fragata</p>
         </div>
         <div class="flex flex-col items-center">
           <img class="rounded-full mb-5 w-3/4 h-auto" src="https://github.com/calebbelkin.png" alt="" loading="lazy">
-          <p class="">Caleb Belkin</p>
+          <p class="font-medium">Caleb Belkin</p>
         </div>
       </div>
     </div>
