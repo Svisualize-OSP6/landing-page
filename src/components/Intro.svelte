@@ -1,5 +1,4 @@
 <script>
-	import Header from './Header.svelte';
 	import SectionWrapper from './SectionWrapper.svelte';
 </script>
 
@@ -23,7 +22,7 @@
 			A Visual Studio Code Extension that visualizes your components as you code
 		</p>
 	</div>
-	<div class="arrow-container animate-bounce">
+	<!-- <div class="arrow-container hover:animate-pulse">
 		<button class="arrow"></button>
-	</div>
+	</div> -->
 </SectionWrapper>
