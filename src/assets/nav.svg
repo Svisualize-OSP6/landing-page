@@ -1,9 +1,1 @@
-<svg width="40" height="40" xmlns="http://www.w3.org/2000/svg">
-
- <g>
-  <title>Layer 1</title>
-  <ellipse ry="3.45121" rx="3.40807" id="svg_1" cy="8.28292" cx="20" stroke="#fff" fill="#ffd4aa"/>
-  <ellipse ry="3.45121" rx="3.40807" id="svg_4" cy="20" cx="20" stroke="#fff" fill="#ffd4aa"/>
-  <ellipse ry="3.45121" rx="3.40807" id="svg_5" cy="31.29368" cx="20" stroke="#fff" fill="#ffd4aa"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#2f4346" d="M64 360a56 56 0 1 0 0 112 56 56 0 1 0 0-112zm0-160a56 56 0 1 0 0 112 56 56 0 1 0 0-112zM120 96A56 56 0 1 0 8 96a56 56 0 1 0 112 0z"/></svg>
