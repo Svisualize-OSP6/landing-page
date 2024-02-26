@@ -8,7 +8,7 @@
 
 <SectionWrapper id="team">
   <!-- <div class="bg-backgroundBlue py-20"> -->
-    <h1 class="text-4xl font-semibold text-center">Meet the team behind <span class="text-logoOrange">S</span>visualize</h1>
+    <h1 class="text-4xl font-semibold text-center">Meet the team behind <span class="text-logoOrange logo">S</span><span class="logo">VISUALIZE</span> </h1>
     <div class="container mx-auto px-100">
     <div class="grid grid-flow-col grid-rows-1 grid-cols-4 gap-10 mx-20 my-10">
         <div class="bg-backgroundBlue/50 flex flex-col items-center py-7 rounded-xl">
