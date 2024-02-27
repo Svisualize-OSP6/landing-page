@@ -24,6 +24,15 @@ html {
   position: fixed;
 } */
 
+.logo {
+	max-width: 100%; /* Ensures the logo never exceeds its container's width */
+	height: auto; /* Allows the logo's height to adjust proportionally */
+  }
+
+.featuresText{
+	font-size: large;
+}
+
 .superman{
 	width: 200px; /* Adjust width and height as needed */
 	height: 100px;
