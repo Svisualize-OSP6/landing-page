@@ -1,5 +1,5 @@
 <script>
-	import svisualize from '../assets/visualize.png';
+	import { openModal } from '../store'
 </script>
 
 <header class="max-w-[1400px] flex flex-1 flex-col z-20">
@@ -10,7 +10,7 @@
 			<h1 class="font-semibold"><span class="logo text-2xl"><span class="text-logoOrange">S</span>visualize</span></h1>
 		</a>
 		<!-- //create a button that only displays on smaller size screen for nav -->
-		<button class="nav md:hidden grid place-items-center"> </button>
+		<button on:click={() => ($openModal = true)} class="nav md:hidden grid place-items-center"> </button>
 		<nav class="hidden md:flex items-center gap-4 lg:gap-6">
 			<a
 				href="#product"
