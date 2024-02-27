@@ -15,9 +15,9 @@
 	</h1>
 	<div class="container mx-auto px-100">
 		<div
-			class="lg:grid lg:grid-flow-col lg:grid-rows-1 grid-cols-4 gap-10 mx-20 my-10 sm:flex sm:flex-col sm:max-h-[50%]"
+			class="grid lg:grid-flow-col lg:grid-rows-1 lg:grid-cols-4 sm:grid-rows-2 sm:grid-cols-2 gap-10 mx-20 my-10"
 		>
-			<div class="bg-backgroundBlue/50 flex flex-col items-center py-7 rounded-xl">
+			<div class="bg-backgroundBlue/50 xs:flex-row flex flex-col items-center py-7 rounded-xl">
 				<img
 					class=" rounded-full mb-5 w-3/4 h-auto"
 					src="https://github.com/lumengli7.png"

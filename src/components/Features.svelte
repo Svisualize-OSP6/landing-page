@@ -7,11 +7,11 @@
 
 <SectionWrapper id="feature">
 	<div class="flex flex-1 flex-col items-center justify-center mx-10">
-		<div class="max-w-[1500px] grid grid-cols-3 gap-20">
+		<div class="grid lg:grid-flow-col lg:grid-rows-1 lg:grid-cols-3 sm:grid-rows-3 sm:grid-cols-1  gap-10 mx-20 my-10">
 			<div class="flex flex-col items-center">
 				<img class="logo w-40 h-40 mb-10" src={VSCODE_logo} alt="" loading="lazy" />
 				<h3 class="text-3xl mb-10">VSCode</h3>
-				<p>
+				<p class="featuresText">
 					A highly versatile and speedy code editor with an extensive plugin ecosystem, favored by
 					developers for its efficiency and ease of use.
 				</p>
@@ -19,7 +19,7 @@
 			<div class="flex flex-col items-center">
 				<img class="logo w-40 h-40 mb-10" src={Svelte_logo} alt="" loading="lazy" />
 				<h3 class="text-3xl mb-10">Svelte</h3>
-				<p>
+				<p class="featuresText">
 					Cutting-edge JavaScript framework known for its minimalistic approach and exceptional
 					performance, enabling developers to build powerful web applications with ease.
 				</p>
@@ -27,7 +27,7 @@
 			<div class="flex flex-col items-center">
 				<img class="logo w-40 h-40 mb-10" src={D3_logo} alt="" loading="lazy" />
 				<h3 class="text-3xl mb-10">D3</h3>
-				<p>
+				<p class="featuresText">
 					Dynamic data visualization library for JavaScript, known for its flexibility and ability
 					to create stunning interactive graphics and charts.
 				</p>
