@@ -30,13 +30,13 @@
         <button on:click={() => reroute('#team')} class="border-none outline-none p-2 group duration-200 cursor-pointer text-left">
           <p class="duration-200 group-hover:pl-2 text-xl font-semibold">Team<i class="fa-solid fa-chevron-right text-lg pl-4"></i></p>
         </button>
-        <button on:click={() => reroute('https://medium.com')} class="border-none outline-none p-2 group duration-200 cursor-pointer text-left">
+        <button on:click={() => window.open('https://medium.com', '_blank')} class="border-none outline-none p-2 group duration-200 cursor-pointer text-left">
           <p class="duration-200 group-hover:pl-2 text-xl font-semibold">Blog<i class="fa-solid fa-chevron-right text-lg pl-4"></i></p>
         </button>
-        <button on:click={() => reroute('https://github.com/oslabs-beta/Svisualize')} class="border-none outline-none p-2 group duration-200 cursor-pointer text-left">
+        <button on:click={() => window.open('https://github.com/oslabs-beta/Svisualize', '_blank')} class="border-none outline-none p-2 group duration-200 cursor-pointer text-left">
           <p class="duration-200 group-hover:pl-2 text-xl font-semibold">Github<i class="fa-solid fa-chevron-right text-lg pl-4"></i></p>
         </button>
-        <button on:click={() => reroute('https://marketplace.visualstudio.com/items?itemName=Svisualize-dev.svisualize')} class="border-none outline-none p-2 group duration-200 cursor-pointer text-left">
+        <button on:click={() => window.open('https://marketplace.visualstudio.com/items?itemName=Svisualize-dev.svisualize', '_blank')} class="border-none outline-none p-2 group duration-200 cursor-pointer text-left">
           <p class="duration-200 group-hover:pl-2 text-logoOrange text-2xl font-bold">Download<i class="fa-solid fa-chevron-right text-xl pl-4 text-logoOrange "></i></p>
         </button>
       </div>
