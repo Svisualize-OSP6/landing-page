@@ -12,7 +12,7 @@
 			gif: props
 		},
 		{
-			description: 'Open files that corresponds to the names on the selected node within VS Code editor upon node click',
+			description: 'Open files that corresponds to the names on the selected node within VS Code editor on click',
 			gif: fileOpener
 		},
 		{
@@ -43,7 +43,7 @@
 				{:else if index === 2}	
 				Change your tree <span class="text-logoOrange font-semibold">root</span>
 				{:else}
-				Live <span class="text-logoOrange font-semibold">updates</span>
+				On-Click <span class="text-logoOrange font-semibold">updates</span>
 				{/if}
 			</FeaturesCard>
 		{/each}
