@@ -7,8 +7,7 @@
 </script>
 
 <SectionWrapper id="team">
-	<!-- <div class="bg-backgroundBlue py-20"> -->
-	<h1 class="text-6xl font-semibold text-center logo">
+	<h1 class="text-4xl sm:text-5xl md:text-6xl max-w-[1000px] mx-auto w-full font-semibold text-center mb-10">
 		Meet the team behind <span class="text-logoOrange logo">S</span><span class="logo"
 			>visualize</span
 		>
@@ -84,5 +83,4 @@
 			</div>
 		</div>
 	</div>
-	<!-- </div> -->
 </SectionWrapper>

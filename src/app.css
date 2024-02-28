@@ -27,13 +27,13 @@ html {
 .logo {
 	max-width: 100%; /* Ensures the logo never exceeds its container's width */
 	height: auto; /* Allows the logo's height to adjust proportionally */
-  }
+}
 
-.featuresText{
+.featuresText {
 	font-size: large;
 }
 
-.superman{
+.superman {
 	width: 200px; /* Adjust width and height as needed */
 	height: 100px;
 	background-image: url('./assets/banner.svg');
@@ -43,7 +43,6 @@ html {
 	border: none; /* Remove button border */
 	cursor: pointer;
 }
-
 
 /* svg for nav */
 .nav {
@@ -115,4 +114,14 @@ button:focus,
 }
 .specialBtn:hover {
 	border-color: 'logoOrange';
+}
+
+.logo-container {
+	width: 110px;
+	height: 110px;
+	padding-bottom: 1em;
+}
+
+.dropShadow {
+	filter: drop-shadow(-10.8923px 14.523px 35.00973px rgba(29, 140, 242, 0.2));
 }
