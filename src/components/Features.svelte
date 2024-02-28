@@ -7,7 +7,10 @@
 
 <SectionWrapper id="feature">
 	<div class="flex flex-1 flex-col items-center justify-center mx-10">
-		<div class="grid lg:grid-flow-col lg:grid-rows-1 lg:grid-cols-3 sm:grid-rows-3 sm:grid-cols-1  gap-10 mx-20 my-10">
+		<h1 class="text-7xl font-semibold text-center logo">Tech</h1>
+		<div
+			class="grid lg:grid-flow-col lg:grid-rows-1 lg:grid-cols-3 sm:grid-rows-3 sm:grid-cols-1 gap-10 mx-20 my-10"
+		>
 			<div class="flex flex-col items-center">
 				<img class="logo w-40 h-40 mb-10" src={VSCODE_logo} alt="" loading="lazy" />
 				<h3 class="text-3xl mb-10">VSCode</h3>
