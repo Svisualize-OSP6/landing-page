@@ -14,27 +14,27 @@
 		<nav class="hidden md:flex items-center gap-4 lg:gap-6">
 			<a
 				href="#features"
-				class="duration-200 hover:text-highlight hover:font-semibold cursor-pointer">Features</a
+				class="duration-200 hover:text-highlight hover:font-semibold cursor-pointer text-lg">Features</a
 			>
 			<a
 				href="#tech"
-				class="duration-200 hover:text-highlight hover:font-semibold cursor-pointer">Tech</a
+				class="duration-200 hover:text-highlight hover:font-semibold cursor-pointer text-lg">Tech</a
 			>
 
 			<!-- <a href="#FAQ" class="duration-200 hover:text-highlight cursor-pointer">FAQs</a> -->
 
-			<a href="#team" class="duration-200 hover:text-highlight hover:font-semibold cursor-pointer"
+			<a href="#team" class="duration-200 hover:text-highlight hover:font-semibold cursor-pointer text-lg"
 				>Team</a
 			>
 			<a
 				href="https://google.com"
 				class="duration-200 hover:text-highlight cursor-pointer hover:font-semibold"
-				target="_blank">Blog</a
+				target="_blank text-lg">Blog</a
 			>
 			<a
 				href="https://github.com/oslabs-beta/Svisualize"
 				class="duration-200 hover:text-highlight cursor-pointer hover:font-semibold"
-				target="_blank">Github</a
+				target="_blank text-lg">Github</a
 			>
 			<button class="specialBtn">
 				<a href="https://marketplace.visualstudio.com/items?itemName=Svisualize-dev.svisualize" target="_blank" class="text-logoOrange hover:text-highlight hover:font-semibold">Download</a>

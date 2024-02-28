@@ -1,5 +1,9 @@
 <script>
 	import SectionWrapper from './SectionWrapper.svelte';
+
+	function makeHidden(){
+
+	}
 </script>
 
 <!-- //wrap section with section wrapper -->
@@ -23,7 +27,9 @@
 			A Visual Studio Code Extension that visualizes your components as you code
 		</p>
 	</div>
-	<div class="arrow-container hover:animate-pulse">
-		<button class="arrow"></button>
+	<div class="arrow-container animate-pulse">
+		<a href="#features">
+			<button class="arrow pb-20"></button>
+		</a>
 	</div>
 </SectionWrapper>

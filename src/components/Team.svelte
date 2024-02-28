@@ -49,7 +49,7 @@
 						<p class="font-semibold mb-2 text-xl">Jason Huang</p>
 						<div class="flex gap-4 mt-2">
 							<a href="https://github.com/itsdayson"><img src={githubIcon} alt="github icon" /></a>
-							<a href="mailto:itsdayson@gmail.com"><img src={envelope} alt="envelope icon" /></a>
+							<a href="mailto:jasonhswe@gmail.com"><img src={envelope} alt="envelope icon" /></a>
 							<a href="https://www.linkedin.com/in/jasonhswe/"
 								><img class="linkedinSvg" src={linkedinIcon} alt="linkedin icon" /></a
 							>
@@ -92,9 +92,6 @@
 				</div>
 			</div>`
 		</div>
-		<div class="text-center py-4">
-			<p class="text-gray-500 text-sm">© Svisualize 2024 | Open Source</p>
-		</div>
 	</div>
-	<!-- <Footer/> -->
+	<Footer/>
 </SectionWrapper>

@@ -80,5 +80,6 @@
 		</div>
 	</div>
 {/if}
-<slot />
+<slot></slot>
+
 <svelte:window bind:scrollY={y} bind:outerHeight />
