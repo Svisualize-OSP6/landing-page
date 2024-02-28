@@ -40,7 +40,7 @@
 				<a href="https://marketplace.visualstudio.com/items?itemName=Svisualize-dev.svisualize" target="_blank" class="text-logoOrange hover:text-highlight hover:font-semibold">Download</a>
 			</button> -->
 			<button class="specialBtn">
-				<a href="/tomorrow" target="_blank" class="text-logoOrange hover:text-highlight hover:font-semibold">Download</a>
+				<a href="/tomorrow" class="text-logoOrange hover:text-highlight hover:font-semibold">Download</a>
 			</button>
 		</nav>
 	</div>
