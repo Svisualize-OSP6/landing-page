@@ -2,6 +2,7 @@
 	import { openModal } from '../store'
 </script>
 
+
 <header class="max-w-[1400px] flex flex-1 flex-col z-20">
 	<div
 		class="fixed top-0 bg-background/55 backdrop-blur-sm mx-auto w-full flex items-center justify-between p-4 py-4"
@@ -45,3 +46,4 @@
 		</nav>
 	</div>
 </header>
+

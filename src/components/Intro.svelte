@@ -10,7 +10,7 @@
 <SectionWrapper id="intro">
 	<div class="flex flex-col gap-10 flex-1 items-center justify-center md:pb-10">
 		<h1
-			class="text-9xl sm:text-8xl md:text-9xl lg:text-10xl max-w-[1200px] mx-auto w-full text-center font-semibold logo"
+			class="text-7xl sm:text-8xl md:text-9xl lg:text-10xl max-w-[1200px] mx-auto w-full text-center font-semibold logo"
 		>
 			<span class="text-logoOrange">S</span>visualize
 		</h1>
@@ -28,8 +28,8 @@
 		</p>
 	</div>
 	<div class="arrow-container animate-pulse">
-		<a href="#features">
-			<button class="arrow pb-20"></button>
-		</a>
+		<!-- <a href="#features"> -->
+			<div class="arrow pb-20"></div>
+		<!-- </a> -->
 	</div>
 </SectionWrapper>
