@@ -1,18 +1,15 @@
 <script>
 	import Intro from "../components/Intro.svelte";
-	import Product from "../components/Product.svelte";
 	import Features from "../components/Features.svelte";
+	import Tech from "../components/Tech.svelte";
 	import Team from "../components/Team.svelte"
 	import Header from "../components/Header.svelte";
 </script>
 
-<!-- <Header/> -->
+<Header/>
+<Intro/>
+<Features/>
+<Tech/>
+<Team />
 
-<!-- <main class="flex flex-col"> -->
-  <Header/>
-  <Intro/>
-  <Product/>
-  <Features/>
-  <Team />
 
-<!-- </main> -->

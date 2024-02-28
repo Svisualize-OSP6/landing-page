@@ -13,12 +13,12 @@
 		<button on:click={() => ($openModal = true)} class="nav md:hidden grid place-items-center"> </button>
 		<nav class="hidden md:flex items-center gap-4 lg:gap-6">
 			<a
-				href="#product"
-				class="duration-200 hover:text-highlight hover:font-semibold cursor-pointer">Product</a
+				href="#features"
+				class="duration-200 hover:text-highlight hover:font-semibold cursor-pointer">Features</a
 			>
 			<a
-				href="#feature"
-				class="duration-200 hover:text-highlight hover:font-semibold cursor-pointer">Features</a
+				href="#tech"
+				class="duration-200 hover:text-highlight hover:font-semibold cursor-pointer">Tech</a
 			>
 
 			<!-- <a href="#FAQ" class="duration-200 hover:text-highlight cursor-pointer">FAQs</a> -->
