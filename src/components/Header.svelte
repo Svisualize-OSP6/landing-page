@@ -27,7 +27,7 @@
 				>Team</a
 			>
 			<a
-				href="https://google.com"
+				href="https://medium.com/@lumeng.li/svisualize-c342e1c23721"
 				class="duration-200 hover:text-highlight cursor-pointer hover:font-semibold"
 				target="_blank text-lg">Blog</a
 			>
