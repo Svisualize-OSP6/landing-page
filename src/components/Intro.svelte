@@ -4,10 +4,11 @@
 
 <!-- //wrap section with section wrapper -->
 <SectionWrapper id="intro">
-	<div class="flex flex-col gap-10 flex-1 items-center justify-center pb-10 md:pb-10">
+	<div class="flex flex-col gap-10 flex-1 items-center justify-center md:pb-10">
 		<h1
 			class="text-7xl sm:text-8xl md:text-9xl lg:text-10xl max-w-[1200px] mx-auto w-full text-center font-semibold logo"
-		><span class="text-logoOrange">S</span>visualize
+		>
+			<span class="text-logoOrange">S</span>visualize
 		</h1>
 		<h3
 			class="text-3xl sm:text-4xl md:text-5xl lg:text5-xl max-w-[1200px] mx-auto w-full text-center font-semibold"
@@ -22,7 +23,7 @@
 			A Visual Studio Code Extension that visualizes your components as you code
 		</p>
 	</div>
-	<!-- <div class="arrow-container hover:animate-pulse">
+	<div class="arrow-container hover:animate-pulse">
 		<button class="arrow"></button>
-	</div> -->
+	</div>
 </SectionWrapper>

@@ -4,6 +4,8 @@
 	import Tech from "../components/Tech.svelte";
 	import Team from "../components/Team.svelte"
 	import Header from "../components/Header.svelte";
+
+	export let id;
 </script>
 
 <Header/>
