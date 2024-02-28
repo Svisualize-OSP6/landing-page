@@ -12,12 +12,12 @@
 		<h1
 			class="text-7xl sm:text-8xl md:text-9xl lg:text-10xl max-w-[1200px] mx-auto w-full text-center font-semibold logo"
 		>
-			<span class="text-logoOrange">A</span>vailable for <span class="text-logoOrange">D</span>ownload <span class="text-logoOrange">T</span>omorrow
+			Available for <span class="text-logoOrange">Download</span> Tomorrow
 		</h1>
 		<h3
 			class="text-3xl sm:text-4xl md:text-5xl lg:text5-xl max-w-[1200px] mx-auto w-full text-center font-semibold"
 		>
-			February 27, 2024 <span class="text-logoOrange">9</span>a.m.
+			 <span class="text-logoOrange">February 29, 2024 9a.m.</span>
 	
 			<span class="text-logoOrange">EST</span>
 		</h3>
