@@ -27,9 +27,5 @@
 			A Visual Studio Code Extension that visualizes your components as you code
 		</p>
 	</div>
-	<div class="arrow-container animate-pulse">
-		<!-- <a href="#features"> -->
-			<div class="arrow pb-20"></div>
-		<!-- </a> -->
-	</div>
+
 </SectionWrapper>
