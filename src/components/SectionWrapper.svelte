@@ -1,5 +1,4 @@
 <script>
-	// export props ID using elt keyword
 	export let id;
 </script>
 

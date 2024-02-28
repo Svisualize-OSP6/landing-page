@@ -6,13 +6,10 @@
 	import Header from "../components/Header.svelte";
 </script>
 
-<!-- <Header/> -->
+<Header/>
+<Intro/>
+<Product/>
+<Features/>
+<Team />
 
-<!-- <main class="flex flex-col"> -->
-  <Header/>
-  <Intro/>
-  <Product/>
-  <Features/>
-  <Team />
 
-<!-- </main> -->
