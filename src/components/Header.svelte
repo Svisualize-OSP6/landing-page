@@ -37,12 +37,10 @@
 				class="duration-200 hover:text-highlight cursor-pointer hover:font-semibold"
 				target="_blank text-lg">Github</a
 			>
-			<!-- <button class="specialBtn">
-				<a href="https://marketplace.visualstudio.com/items?itemName=Svisualize-dev.svisualize" target="_blank" class="text-logoOrange hover:text-highlight hover:font-semibold">Download</a>
-			</button> -->
 			<button class="specialBtn">
-				<a href="/tomorrow" class="text-logoOrange hover:text-highlight hover:font-semibold">Download</a>
+				<a href="https://marketplace.visualstudio.com/items?itemName=Svisualize-dev.svisualize" target="_blank" class="text-logoOrange hover:text-highlight hover:font-semibold">Download</a>
 			</button>
+			
 		</nav>
 	</div>
 </header>
