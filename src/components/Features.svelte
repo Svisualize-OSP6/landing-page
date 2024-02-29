@@ -8,7 +8,7 @@
 
 	let productFeatures = [
 		{
-			description: 'Easily locate components by clicking respective nodes and instantly traverse to their desired file',
+			description: 'Easily locate components by clicking respective nodes and instantly traverse through files',
 			gif: fileOpener
 		},
 		{
