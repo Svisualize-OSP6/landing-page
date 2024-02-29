@@ -8,19 +8,20 @@
 
 	let productFeatures = [
 		{
-			description: 'Hover over component nodes to see every prop belonging to a  component',
-			gif: props
+			description: 'Easily locate components by clicking respective nodes and instantly traverse to their desired file',
+			gif: fileOpener
 		},
 		{
-			description: 'Open files that corresponds to the names on the selected node within VS Code editor on click',
-			gif: fileOpener
+			
+			description: 'Monitor multi-level prop elements by hovering over each node',
+			gif: props
 		},
 		{
 			description: `Switch root node to visualize smaller sections of a project's component structure`,
 			gif: changeRoot
 		},
 		{
-			description: 'Update the D3 tree when changes are made to the codebase by clicking the update button',
+			description: 'Effortlessly integrate additional components into the tree by clicking the update button to ensure seamless re-rendering of your changes',
 			gif: update
 		}
 	]
@@ -37,9 +38,9 @@
 		{#each productFeatures as productFeature, index}
 			<FeaturesCard productFeature={productFeature} index={index}>
 				{#if index === 0}
-				<p class="">See your <span class="text-logoOrange font-semibold">props</span></p>
-				{:else if index === 1}	
 				<span class="text-logoOrange font-semibold">Open files</span> from your tree
+				{:else if index === 1}	
+				<p class="">See your <span class="text-logoOrange font-semibold">props</span></p>
 				{:else if index === 2}	
 				Change your tree <span class="text-logoOrange font-semibold">root</span>
 				{:else}
