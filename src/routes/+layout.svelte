@@ -50,7 +50,7 @@
 				</p>
 			</button>
 			<button
-				on:click={() => window.open('https://medium.com', '_blank')}
+				on:click={() => window.open('https://medium.com/@lumeng.li/svisualize-c342e1c23721', '_blank')}
 				class="border-none outline-none p-2 group duration-200 cursor-pointer text-left"
 			>
 				<p class="duration-200 group-hover:pl-2 text-xl font-semibold">
@@ -65,7 +65,7 @@
 					Github<i class="fa-solid fa-chevron-right text-lg pl-4"></i>
 				</p>
 			</button>
-			<!-- <button
+			<button
 				on:click={() =>
 					window.open(
 						'https://marketplace.visualstudio.com/items?itemName=Svisualize-dev.svisualize',
@@ -76,16 +76,8 @@
 				<p class="duration-200 group-hover:pl-2 text-logoOrange text-2xl font-bold">
 					Download<i class="fa-solid fa-chevron-right text-xl pl-4 text-logoOrange"></i>
 				</p>
-			</button> -->
-			<button
-				on:click={() =>
-					reroute('/tomorrow')}
-				class="border-none outline-none p-2 group duration-200 cursor-pointer text-left"
-			>
-				<p class="duration-200 group-hover:pl-2 text-logoOrange text-2xl font-bold">
-					Download<i class="fa-solid fa-chevron-right text-xl pl-4 text-logoOrange"></i>
-				</p>
 			</button>
+	
 		</div>
 	</div>
 {/if}
